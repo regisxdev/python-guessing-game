@@ -1,3 +1,4 @@
+Markdown
 # 🎮 Python Guessing Game
 
 Welcome to my Python Guessing Game! This is a simple, interactive command-line game built with Python. 
@@ -5,13 +6,24 @@ Welcome to my Python Guessing Game! This is a simple, interactive command-line g
 ## 📝 Description
 In this game, the computer generates a secret random number between 1 and 100. Your goal is to guess that number! After every guess, the computer will give you a hint, telling you if your guess was "Too high" or "Too low". 
 
-## 🚀 How to Play
+## ✨ Features
+* Generates a random number every time you play.
+* Tracks the number of attempts it takes to guess correctly.
+* Input validation to ensure players only enter numbers between 1 and 100.
+* Error handling to prevent crashes if letters or symbols are typed by mistake.
 
-1. Make sure you have [Python](https://www.python.org/downloads/) installed on your computer.
-2. Download or clone this repository.
-3. Open your terminal or command prompt.
-4. Navigate to the folder where the game is saved.
-5. Run the following command:
+## 🚀 How to Run and Play
 
+### 1. Clone the repository
+Open your terminal and clone this repository to your local machine:
 ```bash
+git clone [https://github.com/regisxdev/python-guessing-game.git](https://github.com/regisxdev/python-guessing-game.git)
+2. Navigate to the directory
+Bash
+cd python-guessing-game
+3. Run the game
+Ensure you have Python installed, then start the game by running:
+
+Bash
 python game.py
+Have fun and try to guess the number in as few attempts as possible!
