@@ -1,5 +1,6 @@
-Markdown
 # 🎮 Python Guessing Game
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Welcome to my Python Guessing Game! This is a simple, interactive command-line game built with Python. 
 
